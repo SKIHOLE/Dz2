@@ -1,0 +1,7 @@
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\bin\Debug\DZ2.2.exe.config
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\bin\Debug\DZ2.2.exe
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\bin\Debug\DZ2.2.pdb
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\obj\Debug\DZ2.2.csproj.AssemblyReference.cache
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\obj\Debug\DZ2.2.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\obj\Debug\DZ2.2.exe
+C:\Users\vanya\source\repos\DZ2.2\DZ2.2\obj\Debug\DZ2.2.pdb
